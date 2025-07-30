@@ -35,7 +35,7 @@ Como estudante de Ciência e Tecnologia na UFABC, minha paixão é conectar a ba
 
 Um projeto completo que simula a operação de uma rede de hotéis, onde pude aplicar conceitos de design systems e otimização de performance.
 
-- **Painel de Gerenciamento:** [Aplicação Ao Vivo](https://the-wild-oasis-brown-kappa.vercel.app/dashboard) | [Código no GitHub](https://github.com/lluan4/the-wild-oasis)
+- **Painel de Gerenciamento:** [Aplicação Ao Vivo](https://the-wild-oasis-brown-kappa.vercel.app) | [Código no GitHub](https://github.com/lluan4/the-wild-oasis)
 - **Website para Clientes (Next.js):** [Aplicação Ao Vivo](https://the-wild-oasis-website-pi.vercel.app/) | [Código no GitHub](https://github.com/lluan4/the-wild-oasis-website)
 
 ### 📖 My Recipe Book - API com ASP.NET
