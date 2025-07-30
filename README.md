@@ -13,13 +13,19 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </div>
 
-<br>
+<br/>
 
 Sou um **Desenvolvedor Front-end React** com mais de 2 anos de experiência transformando ideias em produtos digitais de alta performance. Na minha atuação na Trijay, liderei a criação de um **Design System modular que reduziu consideravelmente o tempo de desenvolvimento da equipe**.
 
 Como estudante de Ciência e Tecnologia na UFABC, minha paixão é conectar a base teórica com os desafios práticos do mercado, sempre em busca de soluções escaláveis e com uma ótima experiência de usuário.
 
+<br/>
 
+<div align="center">
+  <a href="https://github.com/lluan4">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lluan4&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=f7768e&area=true&hide_border=true" alt="Luan's Activity Graph" />
+  </a>
+</div>
 
 ---
 
