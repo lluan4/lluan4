@@ -1,59 +1,90 @@
+# Olá, eu sou o Luan Lima 👋
 
-<p align="center">
-  <img alt="Banner: Luan Lima – Front‑End Developer" src="https://raw.githubusercontent.com/luanlima/luanlima/main/assets/banner.svg" />
+<p align="left">
+  <a href="https://www.linkedin.com/in/luan-lima94/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
+<div align="left"> 
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</div>
 
-<h1 align="center">Olá, eu sou o Luan Lima 👋</h1>
+Sou um Desenvolvedor de Software e estudante de Ciência da Computação na **UFABC**. Tenho grande paixão pelo ecossistema **React** para a web (incluindo **Next.js**), mas também sou um entusiasta de **ASP.NET** para o desenvolvimento de APIs robustas e **Flutter** para a criação de aplicativos móveis.
 
-<p align="center">
-  <a href="mailto:luanlima.dev@gmail.com"><img src="https://img.shields.io/badge/E-mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/luanlima-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://luanlima.dev"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+Busco constantemente transformar problemas complexos em soluções elegantes e eficientes, aplicando boas práticas de arquitetura para construir software escalável e de fácil manutenção.
 
 ---
 
-## Sobre mim
-🎓 Bacharel em Ciência & Tecnologia – *UFABC*  
-💼 Front‑end developer (React + TypeScript) com **3 anos** de experiência profissional  
-📊 Apaixonado por performance, acessibilidade (WCAG 2.2) e métricas de produto  
-🚀 Entusiasta de DevOps: Docker, GitHub Actions, SonarCloud, CI/CD em .NET  
-🗣 **Inglês avançado** (B2) – comunicação diária com equipes internacionais
+## 🚀 Meus Projetos Mais Completos
 
-## Minhas especialidades
-| Stack | Tecnologias principais | Destaques |
-|-------|-----------------------|-----------|
-| **Front‑End** | React · Next.js · Vite · TanStack Table · ShadCN UI · Tailwind CSS | *Core Web Vitals* ≥ 97% em produção |
-| **TypeScript & JS** | ES2023 • Zod • RHF • Zustand • React Query | Clean Code + TDD |
-| **Back‑End** | Node · NestJS · .NET 8 · SQL Server · Prisma | APIs REST/GraphQL | 
-| **DevOps** | Docker · GitHub Actions · Azure · Firebase | Deploy contínuo em < 5 min |
-| **Testing** | Vitest · Playwright · Jest · Testing Library · xUnit | Cobertura ≥ 85% |
+### 🏨 The Wild Oasis - Solução Completa de Hotelaria
+Um projeto completo que simula a operação de uma rede de hotéis, dividido em duas aplicações principais:
 
-## Projetos de destaque
-<!-- Use “pinned” repos, mas deixe os KPIs aqui para recrutar ter contexto -->
-- **Personal Finance Dashboard** – SPA em React+Supabase **(2 k+ views/mês)**  
-- **The Wild Oasis** – migração completa Supabase → Firebase, reduzindo latência em **37 %**  
-- **My Recipe Book API** – DDD + Clean Architecture em .NET 8; **100% testes de integração**  
-- **Academic Explorer** – buscador de disciplinas UFABC, **~10 k usuários/semana** no semestre 23‑2
+#### 1. Painel de Gerenciamento (Dashboard)
+- **Descrição:** Aplicação interna para funcionários gerenciarem check-ins, check-outs, quartos e hóspedes.
+- **Tecnologias:** React, TypeScript, Styled Components, React Query.
+- **[Aplicação Ao Vivo](https://the-wild-oasis-brown-kappa.vercel.app/dashboard)** | **[Código no GitHub](https://github.com/lluan4/the-wild-oasis)**
 
-## Métricas (auto‑atualizáveis)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luanlima&show_icons=true&theme=default&hide=stars,issues" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luanlima&theme=default" />
-</p>
+#### 2. Website para Clientes
+- **Descrição:** O site público onde os clientes podem ver informações sobre o hotel e suas acomodações.
+- **Tecnologias:** Next.js, React, TypeScript.
+- **[Aplicação Ao Vivo](https://the-wild-oasis-website-pi.vercel.app/)** | **[Código no GitHub](https://github.com/lluan4/the-wild-oasis-website)**
 
-## O que estou estudando agora
-- **Engenharia de Produto (Etapa 3)** – métricas North Star, discovery contínuo  
-- **Flutter + MVVM** – naveg. com GoRouter e Provider  
-- **Kubernetes básico** – escalonamento de apps stateless
+<br>
 
-## Como posso ajudar sua equipe
-- **Acelerar time‑to‑market** com componentes reutilizáveis, design system e Storybook  
-- **Elevar a qualidade** configurando CI, revisão de código e políticas de qualidade de software  
-- **Mentorar juniors** em boas práticas de React, TypeScript e Git  
+### 📱 Aplicações Mobile com Flutter
+Explorei o desenvolvimento mobile com Flutter, criando apps que integram com hardware e serviços nativos do celular.
+- **Projetos:** App de **Lugares Favoritos** (com Câmera e Google Maps) e um app para teste de **Push Notifications**.
+- **Tecnologias:** Flutter, Dart, Google Maps API, Câmera Nativa, SQLite.
+- **[Código de um dos projetos](https://github.com/lluan4/favorite_places_app)**
 
 ---
 
-> *“Great software is grown, not built.”* – focado em iterar rápido, aprender com dados e entregar valor contínuo.  
-> **Disponível para oportunidades REMOTAS ou em São Paulo**.
+## 🌱 Meus Próximos Passos e Estudos
 
+Estou sempre em busca de evolução e de novas ferramentas para resolver problemas. Meus focos atuais são:
+
+- **Aprofundar no Ecossistema Front-end:** Mergulhando em **Angular** para entender sua arquitetura baseada em componentes e injeção de dependências.
+- **Consolidar o Conhecimento Back-end:** Continuar a evolução no desenvolvimento de APIs com **ASP.NET**, aplicando conceitos de arquitetura limpa e testes.
+
+---
+
+## 🛠️ Minhas Habilidades e Ferramentas
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>Front-end</strong>
+      <ul>
+        <li>React e Next.js</li>
+        <li>TypeScript e JavaScript</li>
+        <li>HTML5 e CSS3</li>
+        <li>Tailwind CSS e Styled Components</li>
+        <li>React Query e Redux</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <strong>Back-end e Mobile</strong>
+      <ul>
+        <li>C# e ASP.NET Web API</li>
+        <li>Flutter e Dart</li>
+        <li>Bancos de Dados (SQL Server, SQLite)</li>
+        <li>APIs REST</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📫 Como me encontrar
+
+Estou sempre aberto a novas oportunidades, colaborações e feedbacks. Vamos nos conectar!
+
+- **LinkedIn:** [luan-lima](https://www.linkedin.com/in/luan-lima94/)
+- **Email:** lluan.lima94@outlook.com
+
+Obrigado pela visita!
