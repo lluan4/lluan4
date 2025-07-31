@@ -49,7 +49,7 @@ Uma API REST para um livro de receitas, onde exploro conceitos de arquitetura li
 
 Explorei o desenvolvimento mobile com Flutter, criando apps que integram com hardware e serviços nativos do celular.
 
-- **Projetos:** App de **Lugares Favoritos** (com Câmera e Google Maps) e um app para teste de **Push Notifications**[cite: 9].
+- **Projetos:** App de **Lugares Favoritos** (com Câmera e Google Maps) e um app para teste de **Push Notifications**.
 - **[Código de um dos projetos](https://github.com/lluan4/favorite_places_app)**
 
 ---
@@ -64,7 +64,7 @@ Explorei o desenvolvimento mobile com Flutter, criando apps que integram com har
         <li>React e Next.js</li>
         <li>TypeScript e JavaScript</li>
         <li>Tailwind CSS e Styled Components</li>
-        [cite_start]<li>TanStack Query [cite: 4] e Redux</li>
+        <li>TanStack Query e Redux</li>
         <li>Core Web Vitals e Otimização</li>
         <li>Acessibilidade (WCAG)</li>
       </ul>
@@ -73,11 +73,11 @@ Explorei o desenvolvimento mobile com Flutter, criando apps que integram com har
       <strong>Back-end, Mobile & Outros</strong>
       <ul>
         <li>C# e ASP.NET Web API</li>
-        [cite_start]<li>Flutter e Dart [cite: 9]</li>
-        [cite_start]<li>Integração SAP [cite: 5]</li>
-        [cite_start]<li>Firebase [cite: 6]</li>
-        [cite_start]<li>Git, SCRUM [cite: 31, 32][cite_start], QA [cite: 38]</li>
-        [cite_start]<li>VBA (Automação) [cite: 44]</li>
+        <li>Flutter e Dart</li>
+        <li>Integração SAP </li>
+        <li>Firebase</li>
+        <li>Git, SCRUM, QA</li>
+        <li>VBA (Automação)</li>
       </ul>
     </td>
   </tr>
